@@ -5,8 +5,8 @@
 Clone this GitHub repository:
 
 ```
-git clone https://github.com/G-U-N/PyCIL.git
-cd PyCIL
+git clone https://github.com/t1anhen9/pbpc_code
+cd pbpc_code
 ```
 
 ### Dependencies
@@ -31,7 +31,7 @@ python main.py --config=./exps/pbpc/pbpc.json
 
 ### Datasets
 
-We have implemented the pre-processing of `CIFAR100`, `Tiny-ImageNet,`, `CUB,`, `Imagenet-R,`, and `Imagenet-Sub`. 
+We have implemented the pre-processing of `CIFAR100`, `Tiny-ImageNet`, `CUB`, `Imagenet-R`, and `Imagenet-Sub`. 
 
 ## Acknowledgments
 
